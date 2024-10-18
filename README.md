@@ -19,3 +19,11 @@ int main() {
 
     return 0;
 }
+
+out put 
+
+Sum: 15
+Difference: 5
+Product: 50
+Quotient: 2
+Remainder: 0
